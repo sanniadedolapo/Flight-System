@@ -8,8 +8,8 @@
 		<version>4.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.Niit</groupId>
-	<artifactId>Flight-system</artifactId>
+	<groupId>com.niit</groupId>
+	<artifactId>flight-system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
@@ -58,3 +58,4 @@
 	</build>
 
 </project>
+
